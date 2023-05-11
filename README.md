@@ -42,3 +42,17 @@ NoVulner! supports Windows, Linux and macOS platforms.
 ### *Support
 The basic NoVulner! is provided as-it-is by free MIT license without any support. If you are interested in getting support, up-to-date vulnerability database and full-feature edition including detail Excel reporting, ask for the commercial NoVulner! edition to support the development of this product.
 
+### Other ecosystems
+- Composer (registry: https://packagist.org)
+- Erlang (registry: https://hex.pm/)
+- GitHub Actions (registry: https://github.com/marketplace?type=actions)
+- Go (registry: https://pkg.go.dev/)
+- Maven (registry: https://repo.maven.apache.org/maven2)
+- npm (registry: https://www.npmjs.com/)
+- NuGet (registry: https://www.nuget.org/)
+- pip (registry: https://pypi.org/)
+- Pub (registry: https://pub.dev/)
+- RubyGems (registry: https://rubygems.org/)
+- Rust (registry: https://crates.io/)
+
+At the moment .NET NuGet package registry is supported only,  if you have a suggestion for a new ecosystem we should support, please open an issue for discussion.
