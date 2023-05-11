@@ -13,7 +13,7 @@ Application has got its own embedded database of vulnerabilities, you will be no
 `Vulnerability database from 10/05/2023 is ready.`
 
 ### Scanning
-NoVulner! searches provided path recursively for all .NET assemblies (*.exe and *.dll files). You get notice, when the search finishes.
+NoVulner! searches the provided path recursively for all .NET assemblies (*.exe and *.dll files). You get notice, when the search finishes.
 
 `618 assemblies found.`
 
@@ -29,7 +29,7 @@ At the end, detailed report (with all vulnerability details) is saved to an Exce
 `Excel file saved.`
 
 ### Remarks
-- All reported issues have to reviewed and confirmed by security expert as all the reported issues are vulnerability suspects only.
+- All reported issues have to be reviewed and confirmed by security expert as all the reported issues are vulnerability suspects only.
 - All assemblies in ‘packages’ directory are ignored as this is the folder containing all, even unused, packages of the .NET solution. This prevents false alarm of unused vulnerable assemblies.
 - When scanning your own solution ensure all projects are fully built with all the dependencies.
 
