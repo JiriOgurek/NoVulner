@@ -49,7 +49,6 @@ The basic NoVulner! is provided as-it-is by free MIT license without any support
 - Go (registry: https://pkg.go.dev/)
 - Maven (registry: https://repo.maven.apache.org/maven2)
 - npm (registry: https://www.npmjs.com/)
-- NuGet (registry: https://www.nuget.org/)
 - pip (registry: https://pypi.org/)
 - Pub (registry: https://pub.dev/)
 - RubyGems (registry: https://rubygems.org/)
