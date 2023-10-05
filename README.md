@@ -1,6 +1,6 @@
 <img src="https://github.com/JiriOgurek/NoVulner/blob/main/logo.png" width="500">
 
-NoVulner! is a high-performance, compact, minimalist, easy-to-use vulnerability scanner for Microsoft .NET environment, supporting Java, JavaScript and .NET repositories on Windows, Linux and macOS platforms.
+NoVulner! is a high-performance, compact, minimalist, easy-to-use vulnerability scanner supporting Java, JavaScript and .NET repositories on Windows, Linux and macOS platforms.
 
 ### Usage
 Usage is quite simple, run the app with parameter pointing to the root of your project and kind of repository (npm = JavaScript, maven = Java, nuget = .NET or all).
